@@ -12,7 +12,6 @@ Business Analyst with 5+ years in marketing analytics, revenue operations, and B
 
 **Featured projects** (see [Projects](https://github.com/Amritapandey1/Projects) for the full portfolio with write-ups):
 - [Telecom Revenue Leakage & Billing Anomaly Detection](https://github.com/Amritapandey1/Projects/tree/main/01-telecom-revenue-leakage) — quantified approx. 10.5% revenue leakage (approx. $4.7K/month at risk)
-- [Coffee Shop Sales Analysis](https://github.com/Amritapandey1/Projects/tree/main/03-coffee-shop-sales) — analyzed 214K transactions (approx. $699K in sales)
 - [Titan Complaint Triage Automation](https://github.com/Amritapandey1/Projects/tree/main/06-titan-complaint-automation) — cut first-response time from hours to seconds
 - [Customer Churn Analysis](https://github.com/Amritapandey1/Projects/tree/main/02-customer-churn-analysis) (SQL)
 - [Blinkit Inventory Priority](https://github.com/Amritapandey1/Projects/tree/main/05-blinkit-inventory-priority) (SQL)
