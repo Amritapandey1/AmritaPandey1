@@ -18,4 +18,4 @@ Business Analyst with 5+ years in marketing analytics, revenue operations, and B
 - [Blinkit Inventory Priority](https://github.com/Amritapandey1/Projects/tree/main/05-blinkit-inventory-priority) (SQL)
 
 **Links:**
-📄 [Portfolio](https://amritapande.notion.site/Portfolio-1d24d0305545822db2a40143b52a3557) · ✉️ amritap62@gmail.com · 📱 +91 85188 43651
+📄 [Portfolio](https://amritapande.notion.site/Portfolio-1d24d0305545822db2a40143b52a3557) · ✉️ amritap62@gmail.com 
