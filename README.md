@@ -13,7 +13,7 @@ Business Analyst with 5+ years in marketing analytics, revenue operations, and B
 
 _Recent: two data-analytics internship projects with Unified Mentor — a coffee-sales performance analysis and a care-load demand forecast, each with a live dashboard and research paper._
 
-**Featured projects** (see [Projects](https://github.com/Amritapandey1/Projects) for the full portfolio with write-ups):
+**Featured projects**:
 - [Telecom Revenue Leakage & Billing Anomaly Detection](https://github.com/Amritapandey1/Projects/tree/main/01-telecom-revenue-leakage) — quantified \~10.5% revenue leakage (\~$4.7K/month at risk)
 - [Predictive Care-Load Forecasting](https://github.com/Amritapandey1/predictive-care-load-forecasting) — short-term demand forecast with uncertainty bounds and a live dashboard
 - [Titan Complaint Triage Automation](https://github.com/Amritapandey1/Projects/tree/main/06-titan-complaint-automation) — cut first-response time from hours to seconds
